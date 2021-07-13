@@ -103,6 +103,7 @@ Examples: `1` or `1,2,3`
 * Help (/help, /h)
 * Command Handler from [discordjs.guide](https://discordjs.guide/)
 * Media Controls via Reactions
+
 ![image](https://user-images.githubusercontent.com/64059000/125394568-7cfec300-e3c7-11eb-85c9-50a56b743c8a.png)
 
 ---

@@ -129,3 +129,8 @@ Just git-pull after making changes, your help is greatly appreciated
 ## 📝 Credits and Thanks
 
 This was inspired heavily by [@eritislami](https://github.com/eritislami)! A lot of credit goes towards him, make sure you go and check out his [version](https://github.com/eritislami/evobot)
+
+## 💙 Donate
+If you like my work and would like to [Donate](https://coindrop.to/rainboi) then feel free to go here and donate through whichever meathod you want 💙
+
+<a href="https://coindrop.to/rainboi" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to RainBoi"></img></a>

@@ -1,0 +1,7 @@
+{
+  "name": "Henwy",
+  "description": "🤖 Simple Discord Music Bot built with discord.js",
+  "repository": "https://github.com/KingRain",
+  "logo": "https://cdn.discordapp.com/attachments/864347713868398602/864356245586706462/discord-avatar-1024-1AMU2.png",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}

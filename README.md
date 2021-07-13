@@ -128,4 +128,4 @@ Just git-pull after making changes, your help is greatly appreciated
 
 ## 📝 Credits and Thanks
 
-[@eritislami](https://github.com/eritislami) This was inspired heavily by him! A lot of credit goes towards him, make sure you go and check out his [version](https://github.com/eritislami/evobot)
+This was inspired heavily by [@eritislami](https://github.com/eritislami)! A lot of credit goes towards him, make sure you go and check out his [version](https://github.com/eritislami/evobot)

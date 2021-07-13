@@ -1,4 +1,4 @@
-#<h1 align="center">✨ Henwy</h1>
+<h1 align="center">✨ Henwy | A Simple Discord Music Bot</h1>
 
 <p align="center">
   <a href="#"><img src="https://www.codefactor.io/repository/github/KingRain/SimpleDiscordMusicBot/badge" /></a>
@@ -7,8 +7,7 @@
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frainboi15&screen_name=RainBoi15"><img src="https://img.shields.io/twitter/follow/rainboi15?color=1DA1F2&logo=twitter&style=for-the-badge"/></a>
 </p>
 
-#✨ Henwy | A Simple Discord Music Bot made in discord.js
-> Henwy is a simple bot made in discord.js, I have made this one to be easily hosted through [Replit](https://replit.com)!
+# Henwy is a simple bot made in discord.js, I have made this one to be easily hosted through [Replit](https://replit.com)!
 
 ## Requirements
 

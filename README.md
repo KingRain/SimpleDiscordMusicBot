@@ -24,7 +24,19 @@ Select Create new Repl
 Then select "Import from Github" and paste this repo's link `KingRain/SimpleDiscordMusicBot`
 ![image](https://user-images.githubusercontent.com/64059000/125392348-a289cd80-e3c3-11eb-91fc-237fbc561624.png)
 Then Select Import from Github
+Add your token and API in the `config.json` File in the correct lines
+The click the "Run" Button on top, and you'll get a screen like this
 
+![image](https://user-images.githubusercontent.com/64059000/125397359-74a88700-e3cb-11eb-9ad7-a471bff8b32f.png)
+
+Copy the top link, Now we are going to host it 24/7 by using [UptimeRobot](https://uptimerobot.com/)
+Login and set up and account over there, then click add monitor and make your settings like this
+![image](https://user-images.githubusercontent.com/64059000/125397477-a15c9e80-e3cb-11eb-9438-08711afe87fd.png)
+
+
+After creating a monitor, UptimeRobot would come and wake your website every 5 minitues. Which would make your repl hosted 24/7
+
+---
 If deploying to Heroku make sure to create config variables
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingrain/simplediscordmusicbot)
 

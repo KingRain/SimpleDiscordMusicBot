@@ -56,6 +56,7 @@ Go to the `config.json` file, then add the token and API key
   "STAY_TIME": 30
 }
 ```
+---
 
 ## 📝 Features & Commands
 
@@ -103,7 +104,9 @@ Examples: `1` or `1,2,3`
 * Help (/help, /h)
 * Command Handler from [discordjs.guide](https://discordjs.guide/)
 * Media Controls via Reactions
-![reactions](https://i.imgur.com/j7CevsH.png)
+![image](https://user-images.githubusercontent.com/64059000/125394568-7cfec300-e3c7-11eb-85c9-50a56b743c8a.png)
+
+---
 
 ## 🤝 Contributions
 
